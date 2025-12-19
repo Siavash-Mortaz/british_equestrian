@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.conda/
+conda-meta/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model files and checkpoints
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.pb
+*.onnx
+*.tflite
+*.weights
+work_dirs/
+checkpoints/
+models/
+weights/
+
+# Data files (uncomment if you don't want to track large data files)
+# dataset/Data/
+# dataset/Raw_videos/
+# *.mp4
+# *.avi
+# *.mov
+
+# Logs and outputs
+*.log
+logs/
+outputs/
+runs/
+tensorboard_logs/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# Google Colab
+.drive/
+
+# PyTorch
+*.pth.tar
+
+# TensorFlow
+*.pb
+*.meta
+*.index
+*.data-*
+
+# MMAction2 specific
+ai_models/MMAction2/.mim/
+ai_models/MMAction2/work_dirs/
+
+# SlowFast specific
+ai_models/SlowFast/.pytorch_cache/
+
+# YOLO specific
+ai_models/Yolo_SAM/runs/
+ai_models/Yolo_SAM/weights/
+
+# Detectron2 specific
+ai_models/SlowFast/detectron2/.mim/
+ai_models/SlowFast/detectron2_repo/.mim/
+

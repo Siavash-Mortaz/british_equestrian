@@ -1,0 +1,11 @@
+Changes required before execution: Connect Google Drive and update the paths for videos and CSV. 
+
+There are multiple functions in the preprocessing pipeline as mentioned below:
+   
+    Data reading: A function to load and read all video and CSV files content stored in a specified directory on Google Drive. The data is interconnected via the same file name.
+   
+    Data splitting: A function 'extract_video_chunk' which takes raw video, start and endpoints (milliseconds), and returns an individual jump and saves the file as .MP4    
+    
+    Batch processing: A function to process an entire batch of data (videos & CSV files) and categorise them into separate folders for clear and knockdown jumps. A third folder is created for anything undefined or irrelevant, which may be used to analyse the number of ‘strides’ in the future.
+
+The output of the preprocessing pipeline is 1-second MP4 video of clear and knockdown jumps categorised into separate folders, and any irrelevant videos categorised into the undefined folder.

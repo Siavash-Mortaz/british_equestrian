@@ -1,0 +1,905 @@
+,video_name,tag
+0,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Robert Murphy - Imbeer - Kessel - 1.50m - 02.06.2023 Jumpoff.mp4_28517-30267_Knock Down_2.mp4,KnockDown
+1,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Medoc de Toxandria - Aachen - 1.50m - 29.06.2023 Round 1.mp4_9867-11617_Knock Down_4.mp4,KnockDown
+2,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 31.08.2023.mp4_81933-83683_Knock Down_21.mp4,KnockDown
+3,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Robert Murphy - Imbeer - Lier - 1.45m - 31.08.2023.mp4_2800-4550_Knock Down_3.mp4,KnockDown
+4,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Robert Murphy - Imbeer - Lier - 1.55m - 01.09.2023.mp4_34167-35917_Knock Down_10.mp4,KnockDown
+5,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Robert Murphy - Imbeer - Lier - 1.55m - 01.09.2023.mp4_64100-65850_Knock Down_16.mp4,KnockDown
+6,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Robert Murphy - Con-Chacco - Valence - 1.45m - 03.12.2023.mp4_52000-53750_Knock Down_13.mp4,KnockDown
+7,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Robert Murphy - Con-Chacco - Valence - 1.45m - 03.12.2023.mp4_70033-71783_Knock Down_18.mp4,KnockDown
+8,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Imperial Hbf  - Chantilly - 1.55m - 15.07.2023.mp4_48317-50067_Knock Down_11.mp4,KnockDown
+9,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Imperial Hbf - Hickstead - 1.50m - 29.07.2023.mp4_79167-80917_Knock Down_15.mp4,KnockDown
+10,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Imperial Hbf - Hickstead - 1.50m - 27.07.2023.mp4_28233-29983_Knock Down_8.mp4,KnockDown
+11,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Imperial Hbf - Hickstead - 1.50m - 27.07.2023.mp4_37067-38817_Knock Down_10.mp4,KnockDown
+12,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 22.04.2023.mp4_14883-16633_Knock Down_5.mp4,KnockDown
+13,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Medoc de Toxandria - Sharjah -1.50m - 04.02.2023.mp4_16100-17850_Knock Down_5.mp4,KnockDown
+14,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Baloubelle - Sharjah -1.45m - 05.02.2023.mp4_39500-41250_Knock Down_12.mp4,KnockDown
+15,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Guestlist - Hohenkirchen - 1.55m - 13.05.2023.mp4_59200-60950_Knock Down_15.mp4,KnockDown
+16,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 09.06.2022.mp4_71617-73367_Knock Down_16.mp4,KnockDown
+17,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.60m - 22.01.2023 Round 2.mp4_60761-62511_Knock Down_15.mp4,KnockDown
+18,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_169200-170950_Knock Down_22.mp4,KnockDown
+19,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 17.09.2022.mp4_68200-69950_Knock Down_18.mp4,KnockDown
+20,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 17.09.2022.mp4_63267-65017_Knock Down_18.mp4,KnockDown
+21,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 24.09.2022.mp4_60833-62583_Knock Down_17.mp4,KnockDown
+22,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Medoc de Toxandria - St Tropez - 1.55m - 23.09.2022.mp4_52300-54050_Knock Down_14.mp4,KnockDown
+23,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Belinda - Ommen - 1.45m - 08.07.2022.mp4_27467-29217_Knock Down_9.mp4,KnockDown
+24,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Belinda - Ommen - 1.45m - 09.07.2022.mp4_58800-60550_Knock Down_16.mp4,KnockDown
+25,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Jimmy Mack Van Berkenbroeck - Ommen - 1.45m - 09.07.2022.mp4_59333-61083_Knock Down_16.mp4,KnockDown
+26,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 21.07.2022.mp4_60900-62650_Knock Down_15.mp4,KnockDown
+27,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 10.09.2022.mp4_39200-40950_Knock Down_11.mp4,KnockDown
+28,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 10.09.2022.mp4_44233-45983_Knock Down_12.mp4,KnockDown
+29,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Belinda - Opglabbeek - 1.45m - 16.04.2022.mp4_31333-33083_Knock Down_9.mp4,KnockDown
+30,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Hucalinde D.V  - Lanaken - 1.35m - 03.04.2022.mp4_31467-33217_Knock Down_10.mp4,KnockDown
+31,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 06.05.2022.mp4_45767-47517_Knock Down_12.mp4,KnockDown
+32,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Belinda - Opglabbeek - 1.45m - 05.05.2022.mp4_42000-43750_Knock Down_11.mp4,KnockDown
+33,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Belinda - Opglabbeek - 1.45m - 05.05.2022.mp4_56300-58050_Knock Down_14.mp4,KnockDown
+34,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.50m - 08.04.2022.mp4_54700-56450_Knock Down_16.mp4,KnockDown
+35,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.35m - 10.04.2022.mp4_2900-4650_Knock Down_3.mp4,KnockDown
+36,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.50m - 09.04.2022.mp4_25433-27183_Knock Down_9.mp4,KnockDown
+37,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.50m - 09.04.2022.mp4_39567-41317_Knock Down_12.mp4,KnockDown
+38,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.50m - 09.04.2022.mp4_44367-46117_Knock Down_14.mp4,KnockDown
+39,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 10.04.2022.mp4_8867-10617_Knock Down_4.mp4,KnockDown
+40,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Harry Charles - Romeo 88 - Aachen - 1.60m - 03.07.2022 Round 1.mp4_68753-70503_Knock Down_14.mp4,KnockDown
+41,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Harry Charles - Romeo 88 - Aachen - 1.60m - 03.07.2022 Round 2.mp4_25059-26809_Knock Down_4.mp4,KnockDown
+42,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/KnockDown/Scott Brash - Hello Jefferson - Aachen - 1.50m - 30.06.2022 Round 1.mp4_74200-75950_Knock Down_14.mp4,KnockDown
+43,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.40m - 01.06.2023.mp4_30733-32483_Clear_8.mp4,Clear
+44,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.40m - 01.06.2023.mp4_32133-33883_Clear_9.mp4,Clear
+45,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.40m - 01.06.2023.mp4_49067-50817_Clear_11.mp4,Clear
+46,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.40m - 01.06.2023.mp4_59667-61417_Clear_14.mp4,Clear
+47,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.40m - 01.06.2023.mp4_78533-80283_Clear_17.mp4,Clear
+48,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.45m - 02.06.2023.mp4_2500-4250_Clear_3.mp4,Clear
+49,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.45m - 02.06.2023.mp4_57067-58817_Clear_15.mp4,Clear
+50,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.60m - 04.06.2023.mp4_2933-4683_Clear_3.mp4,Clear
+51,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.60m - 04.06.2023.mp4_7933-9683_Clear_4.mp4,Clear
+52,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.60m - 04.06.2023.mp4_15000-16750_Clear_6.mp4,Clear
+53,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.60m - 04.06.2023.mp4_16500-18250_Clear_7.mp4,Clear
+54,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.60m - 04.06.2023.mp4_20800-22550_Clear_8.mp4,Clear
+55,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Gallen - 1.60m - 04.06.2023.mp4_30467-32217_Clear_9.mp4,Clear
+56,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.45m - 01.06.2023.mp4_1733-3483_Clear_3.mp4,Clear
+57,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.45m - 01.06.2023.mp4_23567-25317_Clear_6.mp4,Clear
+58,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 1.mp4_25533-27283_Clear_7.mp4,Clear
+59,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 1.mp4_37900-39650_Clear_12.mp4,Clear
+60,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 1.mp4_63967-65717_Clear_15.mp4,Clear
+61,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 1.mp4_64000-65750_Clear_16.mp4,Clear
+62,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 2.mp4_7533-9283_Clear_4.mp4,Clear
+63,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 2.mp4_12300-14050_Clear_5.mp4,Clear
+64,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 2.mp4_37400-39150_Clear_12.mp4,Clear
+65,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Gallen - 1.60m - 02.06.2023 Round 2.mp4_66533-68283_Clear_17.mp4,Clear
+66,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.40m - 01.06.2023.mp4_8517-10267_Clear_4.mp4,Clear
+67,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.40m - 01.06.2023.mp4_19150-20900_Clear_5.mp4,Clear
+68,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.40m - 01.06.2023.mp4_59633-61383_Clear_14.mp4,Clear
+69,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.40m - 01.06.2023.mp4_67517-69267_Clear_15.mp4,Clear
+70,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.45m - 02.06.2023.mp4_23317-25067_Clear_7.mp4,Clear
+71,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.45m - 02.06.2023.mp4_24700-26450_Clear_8.mp4,Clear
+72,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.45m - 02.06.2023.mp4_62517-64267_Clear_15.mp4,Clear
+73,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.45m - 03.06.2023.mp4_30367-32117_Clear_9.mp4,Clear
+74,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.45m - 03.06.2023.mp4_46950-48700_Clear_13.mp4,Clear
+75,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.50m - 02.06.2023.mp4_25950-27700_Clear_7.mp4,Clear
+76,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.50m - 02.06.2023.mp4_48800-50550_Clear_13.mp4,Clear
+77,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.50m - 02.06.2023.mp4_55583-57333_Clear_16.mp4,Clear
+78,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.50m - 02.06.2023.mp4_67300-69050_Clear_19.mp4,Clear
+79,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 01.06.2023.mp4_34333-36083_Clear_9.mp4,Clear
+80,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 01.06.2023.mp4_57800-59550_Clear_14.mp4,Clear
+81,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 01.06.2023.mp4_73033-74783_Clear_16.mp4,Clear
+82,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 02.06.2023.mp4_38933-40683_Clear_10.mp4,Clear
+83,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 02.06.2023.mp4_60633-62383_Clear_15.mp4,Clear
+84,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 03.06.2023.mp4_8633-10383_Clear_5.mp4,Clear
+85,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 03.06.2023.mp4_23433-25183_Clear_8.mp4,Clear
+86,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 03.06.2023.mp4_44617-46367_Clear_11.mp4,Clear
+87,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 03.06.2023.mp4_51500-53250_Clear_14.mp4,Clear
+88,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Kingweis WV - Kessel - 1.40m - 03.06.2023.mp4_65017-66767_Clear_17.mp4,Clear
+89,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.45m - 01.06.2023.mp4_4283-6033_Clear_3.mp4,Clear
+90,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.45m - 01.06.2023.mp4_33450-35200_Clear_10.mp4,Clear
+91,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.45m - 01.06.2023.mp4_40167-41917_Clear_12.mp4,Clear
+92,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.45m - 03.06.2023 Jumpoff.mp4_11633-13383_Clear_6.mp4,Clear
+93,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.45m - 03.06.2023 Jumpoff.mp4_25350-27100_Clear_9.mp4,Clear
+94,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.50m - 04.06.2023 Jumpoff.mp4_23017-24767_Clear_8.mp4,Clear
+95,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.50m - 04.06.2023 Jumpoff.mp4_28967-30717_Clear_10.mp4,Clear
+96,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Kessel - 1.50m - 02.06.2023 Jumpoff.mp4_600-2350_Clear_9.mp4,Clear
+97,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Kessel - 1.50m - 04.06.2023.mp4_55450-57200_Clear_15.mp4,Clear
+98,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Aachen - 1.40m - 02.07.2023 Jumpoff.mp4_27050-28800_Clear_9.mp4,Clear
+99,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Aachen - 1.40m - 02.07.2023.mp4_1750-3500_Clear_3.mp4,Clear
+100,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Aachen - 1.40m - 02.07.2023.mp4_16917-18667_Clear_5.mp4,Clear
+101,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Aachen - 1.40m - 02.07.2023.mp4_21583-23333_Clear_7.mp4,Clear
+102,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Aachen - 1.40m - 02.07.2023.mp4_75833-77583_Clear_19.mp4,Clear
+103,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.45m - 02.07.2023.mp4_43433-45183_Clear_12.mp4,Clear
+104,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.45m - 02.07.2023.mp4_44867-46617_Clear_13.mp4,Clear
+105,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.45m - 02.07.2023.mp4_56333-58083_Clear_15.mp4,Clear
+106,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.50m - 28.06.2023.mp4_39687-41437_Clear_13.mp4,Clear
+107,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.60m - 30.06.2023.mp4_1733-3483_Clear_3.mp4,Clear
+108,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.60m - 30.06.2023.mp4_31700-33450_Clear_10.mp4,Clear
+109,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.60m - 30.06.2023.mp4_41333-43083_Clear_14.mp4,Clear
+110,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Aachen - 1.60m - 30.06.2023.mp4_96733-98483_Clear_21.mp4,Clear
+111,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Aachen - 1.50m - 29.06.2023.mp4_2267-4017_Clear_3.mp4,Clear
+112,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Aachen - 1.50m - 29.06.2023.mp4_10833-12583_Clear_4.mp4,Clear
+113,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Aachen - 1.50m - 29.06.2023.mp4_28700-30450_Clear_8.mp4,Clear
+114,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Aachen - 1.50m - 29.06.2023.mp4_44867-46617_Clear_12.mp4,Clear
+115,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Aachen - 1.50m - 29.06.2023.mp4_74167-75917_Clear_17.mp4,Clear
+116,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Aachen - 1.60m - 28.06.2023.mp4_2932-4682_Clear_3.mp4,Clear
+117,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Aachen - 1.50m - 29.06.2023 Round 1.mp4_52433-54183_Clear_12.mp4,Clear
+118,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Aachen - 29.06.2023 Round 2.mp4_13567-15317_Clear_4.mp4,Clear
+119,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Aachen - 29.06.2023 Round 2.mp4_13567-15317_Clear_5.mp4,Clear
+120,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Aachen - 29.06.2023 Round 2.mp4_27467-29217_Clear_8.mp4,Clear
+121,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Aachen - 29.06.2023 Round 2.mp4_42067-43817_Clear_10.mp4,Clear
+122,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Aachen - 29.06.2023 Round 2.mp4_60467-62217_Clear_14.mp4,Clear
+123,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.50m - 01.07.2023 Jumpoff.mp4_10300-12050_Clear_4.mp4,Clear
+124,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.50m - 01.07.2023 Jumpoff.mp4_45967-47717_Clear_11.mp4,Clear
+125,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.45m - 29.06.2023.mp4_15400-17150_Clear_5.mp4,Clear
+126,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.45m - 29.06.2023.mp4_27133-28883_Clear_7.mp4,Clear
+127,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.45m - 29.06.2023.mp4_48167-49917_Clear_13.mp4,Clear
+128,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.45m - 27.06.2023.mp4_21533-23283_Clear_6.mp4,Clear
+129,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.45m - 27.06.2023.mp4_41167-42917_Clear_9.mp4,Clear
+130,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.45m - 27.06.2023.mp4_80467-82217_Clear_17.mp4,Clear
+131,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.50m - 01.07.2023.mp4_2766-4516_Clear_3.mp4,Clear
+132,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.50m - 01.07.2023.mp4_30123-31873_Clear_7.mp4,Clear
+133,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.50m - 01.07.2023.mp4_40720-42470_Clear_9.mp4,Clear
+134,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.50m - 01.07.2023.mp4_81206-82956_Clear_19.mp4,Clear
+135,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Aachen - 1.50m - 01.07.2023.mp4_81206-82956_Clear_20.mp4,Clear
+136,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Aachen - 1.45m - 27.06.2023.mp4_47333-49083_Clear_11.mp4,Clear
+137,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 01.09.2023.mp4_21133-22883_Clear_6.mp4,Clear
+138,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 01.09.2023.mp4_14833-16583_Clear_5.mp4,Clear
+139,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 01.09.2023.mp4_24833-26583_Clear_8.mp4,Clear
+140,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 01.09.2023.mp4_50333-52083_Clear_13.mp4,Clear
+141,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 31.08.2023.mp4_23100-24850_Clear_6.mp4,Clear
+142,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 31.08.2023.mp4_35967-37717_Clear_9.mp4,Clear
+143,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Milan - 1.60m - 31.08.2023.mp4_51633-53383_Clear_13.mp4,Clear
+144,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Aaron Z - Lier - 1.35m - 01.09.2023.mp4_31000-32750_Clear_9.mp4,Clear
+145,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 01.09.2023.mp4_31167-32917_Clear_8.mp4,Clear
+146,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 03.09.2023.mp4_28100-29850_Clear_8.mp4,Clear
+147,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 03.09.2023.mp4_52133-53883_Clear_13.mp4,Clear
+148,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 31.08.2023.mp4_8133-9883_Clear_4.mp4,Clear
+149,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 31.08.2023.mp4_8133-9883_Clear_5.mp4,Clear
+150,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 31.08.2023.mp4_33067-34817_Clear_11.mp4,Clear
+151,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 31.08.2023.mp4_38700-40450_Clear_12.mp4,Clear
+152,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con Chacco - Lier - 1.40m - 31.08.2023.mp4_54067-55817_Clear_15.mp4,Clear
+153,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lier - 1.45m - 31.08.2023.mp4_32167-33917_Clear_9.mp4,Clear
+154,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lier - 1.45m - 31.08.2023.mp4_45033-46783_Clear_13.mp4,Clear
+155,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lier - 1.45m - 31.08.2023.mp4_67533-69283_Clear_16.mp4,Clear
+156,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lier - 1.55m - 01.09.2023.mp4_20767-22517_Clear_7.mp4,Clear
+157,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lier - 1.55m - 01.09.2023.mp4_26767-28517_Clear_9.mp4,Clear
+158,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lier - 1.55m - 03.09.2023.mp4_19100-20850_Clear_5.mp4,Clear
+159,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf- 1.60m - London - 17.12.2023.mp4_24200-25950_Clear_8.mp4,Clear
+160,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf- 1.60m - London - 17.12.2023.mp4_41000-42750_Clear_14.mp4,Clear
+161,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.45m - 01.12.2023.mp4_8100-9850_Clear_4.mp4,Clear
+162,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.45m - 01.12.2023.mp4_8100-9850_Clear_5.mp4,Clear
+163,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.45m - 01.12.2023.mp4_17333-19083_Clear_7.mp4,Clear
+164,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.45m - 01.12.2023.mp4_38867-40617_Clear_11.mp4,Clear
+165,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.30m - 30.11.2023.mp4_16733-18483_Clear_5.mp4,Clear
+166,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.30m - 30.11.2023.mp4_74333-76083_Clear_16.mp4,Clear
+167,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.45m - 03.12.2023.mp4_40100-41850_Clear_11.mp4,Clear
+168,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Con-Chacco - Valence - 1.45m - 03.12.2023.mp4_58500-60250_Clear_16.mp4,Clear
+169,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Catch-Me Van Berkenbroeck - Valence - 1.55m - 03.12.2023 Jumpoff.mp4_7233-8983_Clear_4.mp4,Clear
+170,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Catch-Me Van Berkenbroeck - Valence - 1.55m - 03.12.2023 Jumpoff.mp4_34800-36550_Clear_11.mp4,Clear
+171,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Catch-Me Van Berkenbroeck - Valence - 1.55m - 03.12.2023.mp4_19400-21150_Clear_6.mp4,Clear
+172,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Catch-Me Van Berkenbroeck - Valence - 1.55m - 03.12.2023.mp4_34733-36483_Clear_9.mp4,Clear
+173,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Catch-Me Van Berkenbroeck - Valence - 1.55m - 03.12.2023.mp4_60433-62183_Clear_17.mp4,Clear
+174,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Valence - 1.45m - 02.12.2023.mp4_21833-23583_Clear_8.mp4,Clear
+175,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Valence - 1.45m - 01.12.2023 Jumpoff.mp4_16833-18583_Clear_7.mp4,Clear
+176,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Valence - 1.45m - 01.12.2023 Jumpoff.mp4_25433-27183_Clear_9.mp4,Clear
+177,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Valence - 1.45m - 01.12.2023.mp4_22533-24283_Clear_6.mp4,Clear
+178,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Valence - 1.45m - 01.12.2023.mp4_58500-60250_Clear_15.mp4,Clear
+179,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Valence - 1.45m - 01.12.2023.mp4_73400-75150_Clear_21.mp4,Clear
+180,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Valence - 1.45m - 30.11.2023.mp4_45867-47617_Clear_13.mp4,Clear
+181,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.40m - 10.11.2023.mp4_29433-31183_Clear_8.mp4,Clear
+182,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.40m - 10.11.2023.mp4_45567-47317_Clear_13.mp4,Clear
+183,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.40m - 10.11.2023.mp4_53600-55350_Clear_14.mp4,Clear
+184,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.45m - 11.11.2023.mp4_12600-14350_Clear_5.mp4,Clear
+185,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.45m - 11.11.2023.mp4_22000-23750_Clear_7.mp4,Clear
+186,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Maastricht - 1.50m - 10.11.2023.mp4_44300-46050_Clear_12.mp4,Clear
+187,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Maastricht - 1.50m - 10.11.2023.mp4_56500-58250_Clear_16.mp4,Clear
+188,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Maastricht - 1.50m - 11.11.2023.mp4_55067-56817_Clear_15.mp4,Clear
+189,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.45m - 12.11.2023.mp4_11933-13683_Clear_6.mp4,Clear
+190,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.45m - 12.11.2023.mp4_23433-25183_Clear_9.mp4,Clear
+191,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.45m - 12.11.2023.mp4_28500-30250_Clear_11.mp4,Clear
+192,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Hulde G - Maastricht - 1.45m - 12.11.2023.mp4_29833-31583_Clear_12.mp4,Clear
+193,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 09.11.2023.mp4_37633-39383_Clear_9.mp4,Clear
+194,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 09.11.2023.mp4_68800-70550_Clear_15.mp4,Clear
+195,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 09.11.2023.mp4_73733-75483_Clear_17.mp4,Clear
+196,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.40m - 09.11.2023.mp4_44933-46683_Clear_11.mp4,Clear
+197,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.40m - 09.11.2023.mp4_68933-70683_Clear_15.mp4,Clear
+198,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.40m - 09.11.2023.mp4_73967-75717_Clear_16.mp4,Clear
+199,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.35m - 09.11.2023.mp4_1533-3283_Clear_3.mp4,Clear
+200,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 12.11.2023.mp4_8833-10583_Clear_4.mp4,Clear
+201,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 12.11.2023.mp4_16633-18383_Clear_5.mp4,Clear
+202,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 12.11.2023.mp4_16667-18417_Clear_6.mp4,Clear
+203,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 12.11.2023.mp4_34967-36717_Clear_10.mp4,Clear
+204,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 12.11.2023.mp4_37933-39683_Clear_11.mp4,Clear
+205,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 12.11.2023.mp4_46600-48350_Clear_12.mp4,Clear
+206,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 12.11.2023.mp4_71400-73150_Clear_18.mp4,Clear
+207,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 10.11.2023.mp4_6933-8683_Clear_4.mp4,Clear
+208,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 10.11.2023.mp4_70167-71917_Clear_18.mp4,Clear
+209,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 11.11.2023.mp4_1767-3517_Clear_3.mp4,Clear
+210,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 11.11.2023.mp4_16333-18083_Clear_5.mp4,Clear
+211,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 11.11.2023.mp4_19400-21150_Clear_6.mp4,Clear
+212,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 11.11.2023.mp4_36867-38617_Clear_12.mp4,Clear
+213,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 11.11.2023.mp4_74600-76350_Clear_19.mp4,Clear
+214,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V.- Oliva - 1.25m - 02.11.2023.mp4_6874-8624_Clear_5.mp4,Clear
+215,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V.- Oliva - 1.25m - 02.11.2023.mp4_25976-27726_Clear_9.mp4,Clear
+216,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V.- Oliva - 1.25m - 02.11.2023.mp4_29513-31263_Clear_10.mp4,Clear
+217,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V.- Oliva - 1.25m - 02.11.2023.mp4_40591-42341_Clear_13.mp4,Clear
+218,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V.- Oliva - 1.25m - 02.11.2023.mp4_54138-55888_Clear_17.mp4,Clear
+219,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 02.11.2023.mp4_32700-34450_Clear_10.mp4,Clear
+220,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 02.11.2023.mp4_37955-39705_Clear_11.mp4,Clear
+221,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 02.11.2023.mp4_42176-43926_Clear_12.mp4,Clear
+222,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 03.11.2023.mp4_2236-3986_Clear_3.mp4,Clear
+223,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 03.11.2023.mp4_7742-9492_Clear_4.mp4,Clear
+224,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 03.11.2023.mp4_14115-15865_Clear_5.mp4,Clear
+225,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 03.11.2023.mp4_27778-29528_Clear_8.mp4,Clear
+226,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 03.11.2023.mp4_32717-34467_Clear_10.mp4,Clear
+227,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 03.11.2023.mp4_56607-58357_Clear_18.mp4,Clear
+228,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.25m - 02.11.2023.mp4_23190-24940_Clear_8.mp4,Clear
+229,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.25m - 02.11.2023.mp4_35519-37269_Clear_10.mp4,Clear
+230,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.25m - 03.11.2023.mp4_26811-28561_Clear_6.mp4,Clear
+231,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.25m - 03.11.2023.mp4_37938-39688_Clear_9.mp4,Clear
+232,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.25m - 03.11.2023.mp4_75810-77560_Clear_17.mp4,Clear
+233,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.30m - 02.11.2023.mp4_69420-71170_Clear_16.mp4,Clear
+234,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 02.11.2023.mp4_73424-75174_Clear_17.mp4,Clear
+235,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 03.11.2023.mp4_25876-27626_Clear_7.mp4,Clear
+236,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 03.11.2023.mp4_82049-83799_Clear_17.mp4,Clear
+237,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 04.11.2023.mp4_19437-21187_Clear_7.mp4,Clear
+238,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 04.11.2023.mp4_27728-29478_Clear_9.mp4,Clear
+239,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 04.11.2023.mp4_47882-49632_Clear_12.mp4,Clear
+240,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 04.11.2023.mp4_55206-56956_Clear_13.mp4,Clear
+241,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 04.11.2023.mp4_62129-63879_Clear_13.mp4,Clear
+242,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.30m - 04.11.2023.mp4_20488-22238_Clear_7.mp4,Clear
+243,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.30m - 04.11.2023.mp4_56590-58340_Clear_14.mp4,Clear
+244,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Lancer JDV - Oliva - 1.30m - 04.11.2023.mp4_66133-67883_Clear_16.mp4,Clear
+245,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 05.11.2023 Jumpoff.mp4_2353-4103_Clear_3.mp4,Clear
+246,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 05.11.2023 Jumpoff.mp4_8642-10392_Clear_4.mp4,Clear
+247,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 05.11.2023 Jumpoff.mp4_27217-28967_Clear_7.mp4,Clear
+248,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 05.11.2023.mp4_14315-16065_Clear_5.mp4,Clear
+249,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 05.11.2023.mp4_27862-29612_Clear_7.mp4,Clear
+250,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 05.11.2023.mp4_69920-71670_Clear_19.mp4,Clear
+251,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist  - Chantilly - 1.40m - 13.07.2023.mp4_61700-63450_Clear_13.mp4,Clear
+252,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist  - Chantilly - 1.40m - 13.07.2023.mp4_72233-73983_Clear_16.mp4,Clear
+253,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf  - Chantilly - 1.50m - 12.07.2023.mp4_15400-17150_Clear_5.mp4,Clear
+254,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf  - Chantilly - 1.50m - 12.07.2023.mp4_30133-31883_Clear_7.mp4,Clear
+255,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf  - Chantilly - 1.50m - 12.07.2023.mp4_74517-76267_Clear_18.mp4,Clear
+256,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf  - Chantilly - 1.50m - 13.07.2023.mp4_53817-55567_Clear_13.mp4,Clear
+257,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf  - Chantilly - 1.55m - 15.07.2023.mp4_55200-56950_Clear_14.mp4,Clear
+258,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf  - Chantilly - 1.55m - 15.07.2023.mp4_80850-82600_Clear_20.mp4,Clear
+259,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.40m - 12.07.2023.mp4_43417-45167_Clear_10.mp4,Clear
+260,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.40m - 12.07.2023.mp4_56083-57833_Clear_12.mp4,Clear
+261,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.40m - 12.07.2023.mp4_68667-70417_Clear_15.mp4,Clear
+262,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.40m - 12.07.2023.mp4_72067-73817_Clear_17.mp4,Clear
+263,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.45m - 13.07.2023.mp4_15233-16983_Clear_6.mp4,Clear
+264,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.45m - 13.07.2023.mp4_17183-18933_Clear_8.mp4,Clear
+265,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.45m - 14.07.2023.mp4_74583-76333_Clear_18.mp4,Clear
+266,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.45m - 14.07.2023 Jumpoff.mp4_8750-10500_Clear_5.mp4,Clear
+267,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Chantilly - 1.45m - 14.07.2023 Jumpoff.mp4_41633-43383_Clear_11.mp4,Clear
+268,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Hickstead - 1.45m - 28.07.2023.mp4_8267-10017_Clear_5.mp4,Clear
+269,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Hickstead - 1.45m - 28.07.2023.mp4_24133-25883_Clear_10.mp4,Clear
+270,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.60m - 28.07.2023 Round 2.mp4_2833-4583_Clear_3.mp4,Clear
+271,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.60m - 28.07.2023 Round 2.mp4_69100-70850_Clear_17.mp4,Clear
+272,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.60m - 28.07.2023 Round 1.mp4_27033-28783_Clear_6.mp4,Clear
+273,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.60m - 28.07.2023 Round 1.mp4_32133-33883_Clear_7.mp4,Clear
+274,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.60m - 28.07.2023 Round 1.mp4_65300-67050_Clear_15.mp4,Clear
+275,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.50m - 27.07.2023.mp4_10267-12017_Clear_4.mp4,Clear
+276,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.50m - 27.07.2023.mp4_22667-24417_Clear_6.mp4,Clear
+277,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.50m - 27.07.2023.mp4_28233-29983_Clear_7.mp4,Clear
+278,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.45m - 28.07.2023.mp4_10333-12083_Clear_4.mp4,Clear
+279,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.45m - 28.07.2023.mp4_28233-29983_Clear_9.mp4,Clear
+280,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.45m - 28.07.2023.mp4_55433-57183_Clear_15.mp4,Clear
+281,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.45m - 28.07.2023.mp4_69733-71483_Clear_17.mp4,Clear
+282,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Hickstead - 1.45m - 28.07.2023.mp4_69733-71483_Clear_18.mp4,Clear
+283,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.45m - 27.07.2023.mp4_14700-16450_Clear_6.mp4,Clear
+284,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.45m - 27.07.2023.mp4_30767-32517_Clear_9.mp4,Clear
+285,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.45m - 27.07.2023.mp4_43700-45450_Clear_11.mp4,Clear
+286,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hickstead - 1.45m - 27.07.2023.mp4_70867-72617_Clear_16.mp4,Clear
+287,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 09.04.2023.mp4_2867-4617_Clear_3.mp4,Clear
+288,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 09.04.2023.mp4_21067-22817_Clear_8.mp4,Clear
+289,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 09.04.2023.mp4_61800-63550_Clear_16.mp4,Clear
+290,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 07.04.2023.mp4_2367-4117_Clear_3.mp4,Clear
+291,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 07.04.2023.mp4_23767-25517_Clear_9.mp4,Clear
+292,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 07.04.2023.mp4_2700-4450_Clear_3.mp4,Clear
+293,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 07.04.2023.mp4_61800-63550_Clear_16.mp4,Clear
+294,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 07.04.2023.mp4_74600-76350_Clear_19.mp4,Clear
+295,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 06.04.2023.mp4_8567-10317_Clear_4.mp4,Clear
+296,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 06.04.2023.mp4_33733-35483_Clear_7.mp4,Clear
+297,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 06.04.2023.mp4_41800-43550_Clear_8.mp4,Clear
+298,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 06.04.2023.mp4_74633-76383_Clear_14.mp4,Clear
+299,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 06.04.2023.mp4_63467-65217_Clear_13.mp4,Clear
+300,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.30m - 06.04.2023.mp4_82300-84050_Clear_16.mp4,Clear
+301,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.35m - 07.04.2023.mp4_56233-57983_Clear_14.mp4,Clear
+302,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.35m - 07.04.2023.mp4_68667-70417_Clear_16.mp4,Clear
+303,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 09.04.2023.mp4_34567-36317_Clear_8.mp4,Clear
+304,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 09.04.2023.mp4_42967-44717_Clear_9.mp4,Clear
+305,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 08.04.2023 Jumpoff.mp4_2300-4050_Clear_3.mp4,Clear
+306,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 08.04.2023 Jumpoff.mp4_17333-19083_Clear_6.mp4,Clear
+307,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 08.04.2023 Jumpoff.mp4_34733-36483_Clear_11.mp4,Clear
+308,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 08.04.2023.mp4_21833-23583_Clear_7.mp4,Clear
+309,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 08.04.2023.mp4_31000-32750_Clear_8.mp4,Clear
+310,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 08.04.2023.mp4_31000-32750_Clear_9.mp4,Clear
+311,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 08.04.2023.mp4_37433-39183_Clear_11.mp4,Clear
+312,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_6433-8183_Clear_4.mp4,Clear
+313,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_15200-16950_Clear_6.mp4,Clear
+314,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_20867-22617_Clear_7.mp4,Clear
+315,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_22167-23917_Clear_8.mp4,Clear
+316,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_34167-35917_Clear_10.mp4,Clear
+317,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_39500-41250_Clear_11.mp4,Clear
+318,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_53033-54783_Clear_13.mp4,Clear
+319,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.40m - 06.04.2023.mp4_89633-91383_Clear_20.mp4,Clear
+320,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 16.04.2023.mp4_23350-25100_Clear_7.mp4,Clear
+321,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 16.04.2023.mp4_74850-76600_Clear_20.mp4,Clear
+322,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 16.04.2023 Jumpoff.mp4_14183-15933_Clear_5.mp4,Clear
+323,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.50m - 16.04.2023 Jumpoff.mp4_14133-15883_Clear_6.mp4,Clear
+324,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 14.04.2023.mp4_9017-10767_Clear_4.mp4,Clear
+325,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 14.04.2023.mp4_63633-65383_Clear_13.mp4,Clear
+326,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 14.04.2023.mp4_76517-78267_Clear_16.mp4,Clear
+327,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 15.04.2023.mp4_30167-31917_Clear_8.mp4,Clear
+328,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 15.04.2023.mp4_76400-78150_Clear_18.mp4,Clear
+329,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 15.04.2023.mp4_76400-78150_Clear_19.mp4,Clear
+330,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Oliva - 1.45m - 14.04.2023.mp4_53400-55150_Clear_14.mp4,Clear
+331,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 22.04.2023.mp4_51983-53733_Clear_15.mp4,Clear
+332,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 22.04.2023.mp4_64350-66100_Clear_17.mp4,Clear
+333,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 22.04.2023.mp4_69717-71467_Clear_18.mp4,Clear
+334,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 21.04.2023.mp4_15400-17150_Clear_5.mp4,Clear
+335,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 21.04.2023.mp4_23517-25267_Clear_7.mp4,Clear
+336,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 21.04.2023.mp4_23450-25200_Clear_8.mp4,Clear
+337,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 21.04.2023.mp4_47200-48950_Clear_14.mp4,Clear
+338,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.40m - 21.04.2023.mp4_54517-56267_Clear_16.mp4,Clear
+339,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.35m - 20.04.2023.mp4_23050-24800_Clear_8.mp4,Clear
+340,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.35m - 20.04.2023.mp4_37267-39017_Clear_10.mp4,Clear
+341,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.35m - 20.04.2023.mp4_37250-39000_Clear_11.mp4,Clear
+342,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.35m - 20.04.2023.mp4_59033-60783_Clear_16.mp4,Clear
+343,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Oliva - 1.35m - 20.04.2023.mp4_65167-66917_Clear_18.mp4,Clear
+344,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.50m - 23.04.2023.mp4_8517-10267_Clear_4.mp4,Clear
+345,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.50m - 23.04.2023.mp4_17667-19417_Clear_5.mp4,Clear
+346,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.50m - 23.04.2023.mp4_25267-27017_Clear_8.mp4,Clear
+347,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.50m - 23.04.2023.mp4_34467-36217_Clear_10.mp4,Clear
+348,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.50m - 23.04.2023.mp4_42467-44217_Clear_12.mp4,Clear
+349,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.50m - 23.04.2023.mp4_55683-57433_Clear_16.mp4,Clear
+350,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 21.04.2023.mp4_8400-10150_Clear_5.mp4,Clear
+351,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.45m - 21.04.2023.mp4_18117-19867_Clear_6.mp4,Clear
+352,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 20.04.2023.mp4_37133-38883_Clear_9.mp4,Clear
+353,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 20.04.2023.mp4_57483-59233_Clear_13.mp4,Clear
+354,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Oliva - 1.40m - 20.04.2023.mp4_63500-65250_Clear_15.mp4,Clear
+355,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.50m - 22.04.2023.mp4_33100-34850_Clear_9.mp4,Clear
+356,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.50m - 22.04.2023.mp4_38550-40300_Clear_10.mp4,Clear
+357,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 20.04.2023.mp4_22517-24267_Clear_7.mp4,Clear
+358,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 20.04.2023.mp4_29667-31417_Clear_9.mp4,Clear
+359,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 20.04.2023.mp4_57167-58917_Clear_13.mp4,Clear
+360,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Oliva - 1.45m - 20.04.2023.mp4_73917-75667_Clear_17.mp4,Clear
+361,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.40m - 03.02.2023.mp4_2133-3883_Clear_3.mp4,Clear
+362,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.40m - 03.02.2023.mp4_41633-43383_Clear_11.mp4,Clear
+363,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.40m - 03.02.2023.mp4_47567-49317_Clear_14.mp4,Clear
+364,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.40m - 03.02.2023.mp4_67700-69450_Clear_18.mp4,Clear
+365,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Sharjah -1.40m - 03.02.2023.mp4_29933-31683_Clear_9.mp4,Clear
+366,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Sharjah -1.40m - 03.02.2023.mp4_48167-49917_Clear_12.mp4,Clear
+367,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Sharjah -1.40m - 03.02.2023.mp4_90433-92183_Clear_18.mp4,Clear
+368,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Sharjah -1.50m - 05.02.2023 Second round.mp4_37933-39683_Clear_8.mp4,Clear
+369,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Sharjah -1.50m - 05.02.2023 Second round.mp4_43900-45650_Clear_11.mp4,Clear
+370,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Sharjah -1.50m - 05.02.2023 Second round.mp4_62767-64517_Clear_16.mp4,Clear
+371,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Sharjah -1.50m - 05.02.2023 First round.mp4_0-1750_Clear_2.mp4,Clear
+372,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Sharjah -1.50m - 05.02.2023 First round.mp4_28467-30217_Clear_7.mp4,Clear
+373,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Sharjah -1.50m - 05.02.2023 First round.mp4_63767-65517_Clear_16.mp4,Clear
+374,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.45m - 05.02.2023.mp4_11667-13417_Clear_5.mp4,Clear
+375,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.45m - 05.02.2023.mp4_26867-28617_Clear_10.mp4,Clear
+376,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.45m - 05.02.2023.mp4_42867-44617_Clear_13.mp4,Clear
+377,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Sharjah -1.45m - 05.02.2023.mp4_51267-53017_Clear_14.mp4,Clear
+378,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.60m - 14.05.2023.mp4_2267-4017_Clear_3.mp4,Clear
+379,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.60m - 14.05.2023.mp4_7467-9217_Clear_4.mp4,Clear
+380,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.60m - 14.05.2023.mp4_61500-63250_Clear_17.mp4,Clear
+381,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.45m - 12.05.2023.mp4_10567-12317_Clear_4.mp4,Clear
+382,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.45m - 12.05.2023.mp4_27867-29617_Clear_9.mp4,Clear
+383,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.45m - 12.05.2023.mp4_38933-40683_Clear_11.mp4,Clear
+384,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.45m - 12.05.2023.mp4_44367-46117_Clear_12.mp4,Clear
+385,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.45m - 12.05.2023.mp4_44400-46150_Clear_13.mp4,Clear
+386,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.45m - 12.05.2023.mp4_52133-53883_Clear_14.mp4,Clear
+387,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Hohenkirchen - 1.45m - 12.05.2023.mp4_67000-68750_Clear_17.mp4,Clear
+388,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Hohenkirchen - 1.55m - 13.05.2023.mp4_3567-5317_Clear_3.mp4,Clear
+389,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Hohenkirchen - 1.55m - 13.05.2023.mp4_35500-37250_Clear_10.mp4,Clear
+390,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Hohenkirchen - 1.55m - 13.05.2023.mp4_71967-73717_Clear_20.mp4,Clear
+391,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Hohenkirchen - 1.40m - 11.05.2023.mp4_35800-37550_Clear_9.mp4,Clear
+392,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Guestlist - Hohenkirchen - 1.40m - 11.05.2023.mp4_48567-50317_Clear_11.mp4,Clear
+393,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen -19.05.2023.mp4_18133-19883_Clear_6.mp4,Clear
+394,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen -19.05.2023.mp4_27967-29717_Clear_8.mp4,Clear
+395,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen -19.05.2023.mp4_67533-69283_Clear_13.mp4,Clear
+396,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen - 21.05.2023.mp4_33200-34950_Clear_9.mp4,Clear
+397,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen - 21.05.2023.mp4_80900-82650_Clear_16.mp4,Clear
+398,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen - 20.05.2023.mp4_10667-12417_Clear_5.mp4,Clear
+399,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen - 20.05.2023.mp4_48567-50317_Clear_13.mp4,Clear
+400,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen - 20.05.2023.mp4_62333-64083_Clear_15.mp4,Clear
+401,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Universum Z - Lummen - 20.05.2023.mp4_78267-80017_Clear_18.mp4,Clear
+402,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 20.05.2023 Jumpoff.mp4_16767-18517_Clear_6.mp4,Clear
+403,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 20.05.2023.mp4_8733-10483_Clear_4.mp4,Clear
+404,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 20.05.2023.mp4_19067-20817_Clear_6.mp4,Clear
+405,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 20.05.2023.mp4_25467-27217_Clear_7.mp4,Clear
+406,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 20.05.2023.mp4_46100-47850_Clear_12.mp4,Clear
+407,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 20.05.2023.mp4_50867-52617_Clear_13.mp4,Clear
+408,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 20.05.2023.mp4_67167-68917_Clear_17.mp4,Clear
+409,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 19.05.2023.mp4_31533-33283_Clear_8.mp4,Clear
+410,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 19.05.2023.mp4_39800-41550_Clear_10.mp4,Clear
+411,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Imbeer - Lummen - 1.45m - 19.05.2023.mp4_71000-72750_Clear_17.mp4,Clear
+412,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Lummen - 1.45m - 21.05.2023.mp4_23167-24917_Clear_6.mp4,Clear
+413,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Lummen - 1.40m - 19.05.2023.mp4_10600-12350_Clear_4.mp4,Clear
+414,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - Comme Cornet - Lummen - 1.40m - 19.05.2023.mp4_28233-29983_Clear_8.mp4,Clear
+415,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.35m - 11.06.2022.mp4_17533-19283_Clear_5.mp4,Clear
+416,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.35m - 11.06.2022.mp4_17500-19250_Clear_6.mp4,Clear
+417,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.35m - 11.06.2022.mp4_49650-51400_Clear_12.mp4,Clear
+418,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.35m - 11.06.2022.mp4_54417-56167_Clear_13.mp4,Clear
+419,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 09.06.2022.mp4_36883-38633_Clear_8.mp4,Clear
+420,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 09.06.2022.mp4_53050-54800_Clear_11.mp4,Clear
+421,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 09.06.2022.mp4_76117-77867_Clear_14.mp4,Clear
+422,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 09.06.2022.mp4_81883-83633_Clear_17.mp4,Clear
+423,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 11.06.2022.mp4_8217-9967_Clear_4.mp4,Clear
+424,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 11.06.2022.mp4_58833-60583_Clear_13.mp4,Clear
+425,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 11.06.2022.mp4_80367-82117_Clear_18.mp4,Clear
+426,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 09.06.2022.mp4_1233-2983_Clear_3.mp4,Clear
+427,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 09.06.2022.mp4_43767-45517_Clear_10.mp4,Clear
+428,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 09.06.2022.mp4_50583-52333_Clear_12.mp4,Clear
+429,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 09.06.2022.mp4_51933-53683_Clear_13.mp4,Clear
+430,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Keysoe - 1.35m - 09.06.2022.mp4_64983-66733_Clear_15.mp4,Clear
+431,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Keysoe - 1.45m - 11.06.2022.mp4_15100-16850_Clear_5.mp4,Clear
+432,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Keysoe - 1.45m - 11.06.2022.mp4_19150-20900_Clear_6.mp4,Clear
+433,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Keysoe - 1.45m - 11.06.2022.mp4_60950-62700_Clear_14.mp4,Clear
+434,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Keysoe - 1.45m - 11.06.2022.mp4_77183-78933_Clear_18.mp4,Clear
+435,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Keysoe - 1.40m - 09.06.2022.mp4_2667-4417_Clear_3.mp4,Clear
+436,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Keysoe - 1.40m - 09.06.2022.mp4_42683-44433_Clear_11.mp4,Clear
+437,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Keysoe - 1.40m - 09.06.2022.mp4_42683-44433_Clear_12.mp4,Clear
+438,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.55m - 30.10.2022 Jumpoff.mp4_21533-23283_Clear_6.mp4,Clear
+439,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.55m - 30.10.2022 Jumpoff.mp4_31683-33433_Clear_9.mp4,Clear
+440,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.55m - 30.10.2022.mp4_14750-16500_Clear_5.mp4,Clear
+441,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_8900-10650_Clear_4.mp4,Clear
+442,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_27133-28883_Clear_9.mp4,Clear
+443,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_31250-33000_Clear_10.mp4,Clear
+444,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_58467-60217_Clear_15.mp4,Clear
+445,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_68850-70600_Clear_18.mp4,Clear
+446,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 1.mp4_19150-20900_Clear_5.mp4,Clear
+447,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 1.mp4_59333-61083_Clear_14.mp4,Clear
+448,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.50m - 28.10.2022 Round 1.mp4_70200-71950_Clear_18.mp4,Clear
+449,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.40m - 27.10.2022.mp4_26217-27967_Clear_6.mp4,Clear
+450,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.40m - 27.10.2022.mp4_26183-27933_Clear_7.mp4,Clear
+451,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.40m - 27.10.2022.mp4_72500-74250_Clear_15.mp4,Clear
+452,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Robert Murphy - How Easy - Vejer de la Frontera - 1.40m - 27.10.2022.mp4_73983-75733_Clear_16.mp4,Clear
+453,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.40m - 27.10.2022.mp4_36700-38450_Clear_8.mp4,Clear
+454,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.40m - 27.10.2022.mp4_81917-83667_Clear_17.mp4,Clear
+455,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.45m - 27.10.2022.mp4_27683-29433_Clear_8.mp4,Clear
+456,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.45m - 27.10.2022.mp4_29167-30917_Clear_9.mp4,Clear
+457,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.45m - 27.10.2022.mp4_34650-36400_Clear_11.mp4,Clear
+458,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.45m - 27.10.2022.mp4_40067-41817_Clear_12.mp4,Clear
+459,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.45m - 27.10.2022.mp4_41517-43267_Clear_13.mp4,Clear
+460,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 1.mp4_3433-5183_Clear_3.mp4,Clear
+461,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 1.mp4_22017-23767_Clear_7.mp4,Clear
+462,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 1.mp4_25500-27250_Clear_9.mp4,Clear
+463,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 1.mp4_63733-65483_Clear_17.mp4,Clear
+464,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_9283-11033_Clear_4.mp4,Clear
+465,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_59300-61050_Clear_14.mp4,Clear
+466,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_59317-61067_Clear_15.mp4,Clear
+467,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Vejer de la Frontera - 1.50m - 28.10.2022 Round 2.mp4_69583-71333_Clear_19.mp4,Clear
+468,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Vejer de la Frontera - 1.35m - 27.10.2022.mp4_14550-16300_Clear_5.mp4,Clear
+469,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Vejer de la Frontera - 1.35m - 27.10.2022.mp4_30217-31967_Clear_9.mp4,Clear
+470,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Vejer de la Frontera - 1.35m - 27.10.2022.mp4_30250-32000_Clear_10.mp4,Clear
+471,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.45m - 29.10.2022.mp4_1833-3583_Clear_3.mp4,Clear
+472,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.45m - 29.10.2022.mp4_23417-25167_Clear_6.mp4,Clear
+473,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.45m - 29.10.2022.mp4_39767-41517_Clear_10.mp4,Clear
+474,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.45m - 29.10.2022.mp4_59067-60817_Clear_15.mp4,Clear
+475,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.55m - 30.10.2022.mp4_43033-44783_Clear_10.mp4,Clear
+476,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.55m - 30.10.2022.mp4_52417-54167_Clear_11.mp4,Clear
+477,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.55m - 30.10.2022.mp4_58267-60017_Clear_14.mp4,Clear
+478,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Vejer de la Frontera - 1.55m - 30.10.2022.mp4_71967-73717_Clear_20.mp4,Clear
+479,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Vejer de la Frontera - 1.40m - 29.10.2022.mp4_2817-4567_Clear_3.mp4,Clear
+480,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Vejer de la Frontera - 1.40m - 29.10.2022.mp4_66900-68650_Clear_14.mp4,Clear
+481,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023 (1).mp4_1719-3469_Clear_3.mp4,Clear
+482,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023 (1).mp4_61062-62812_Clear_12.mp4,Clear
+483,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023 (1).mp4_87721-89471_Clear_16.mp4,Clear
+484,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.45m - 14.01.2023.mp4_8426-10176_Clear_4.mp4,Clear
+485,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.45m - 14.01.2023.mp4_51001-52751_Clear_13.mp4,Clear
+486,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.45m - 12.01.2023.mp4_10161-11911_Clear_4.mp4,Clear
+487,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.45m - 12.01.2023.mp4_23007-24757_Clear_8.mp4,Clear
+488,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.45m - 12.01.2023.mp4_49734-51484_Clear_13.mp4,Clear
+489,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.45m - 12.01.2023.mp4_66467-68217_Clear_18.mp4,Clear
+490,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.40m - 12.01.2023.mp4_2687-4437_Clear_3.mp4,Clear
+491,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.40m - 12.01.2023.mp4_16534-18284_Clear_5.mp4,Clear
+492,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.40m - 12.01.2023.mp4_31649-33399_Clear_8.mp4,Clear
+493,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.40m - 12.01.2023.mp4_33100-34850_Clear_9.mp4,Clear
+494,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.40m - 12.01.2023.mp4_65633-67383_Clear_15.mp4,Clear
+495,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 13.01.2023.mp4_28996-30746_Clear_9.mp4,Clear
+496,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 13.01.2023.mp4_41742-43492_Clear_12.mp4,Clear
+497,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 13.01.2023 Jumpoff.mp4_20388-22138_Clear_7.mp4,Clear
+498,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 13.01.2023 Jumpoff.mp4_29380-31130_Clear_8.mp4,Clear
+499,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 2.mp4_22039-23789_Clear_8.mp4,Clear
+500,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 1.mp4_16884-18634_Clear_5.mp4,Clear
+501,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 1.mp4_35119-36869_Clear_10.mp4,Clear
+502,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 1.mp4_38255-40005_Clear_11.mp4,Clear
+503,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 1.mp4_50267-52017_Clear_14.mp4,Clear
+504,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 1.mp4_55556-57306_Clear_15.mp4,Clear
+505,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 1.mp4_69987-71737_Clear_19.mp4,Clear
+506,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.55m - 15.01.2023 Round 1.mp4_69987-71737_Clear_20.mp4,Clear
+507,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 15.01.2023.mp4_2870-4620_Clear_3.mp4,Clear
+508,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 15.01.2023.mp4_34335-36085_Clear_10.mp4,Clear
+509,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 15.01.2023.mp4_44228-45978_Clear_12.mp4,Clear
+510,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 15.01.2023.mp4_57041-58791_Clear_16.mp4,Clear
+511,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 15.01.2023.mp4_60161-61911_Clear_17.mp4,Clear
+512,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 15.01.2023.mp4_68986-70736_Clear_18.mp4,Clear
+513,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 15.01.2023.mp4_73874-75624_Clear_20.mp4,Clear
+514,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023.mp4_23074-24824_Clear_6.mp4,Clear
+515,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023.mp4_52903-54653_Clear_12.mp4,Clear
+516,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023.mp4_54355-56105_Clear_13.mp4,Clear
+517,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023.mp4_58809-60559_Clear_14.mp4,Clear
+518,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.40m - 13.01.2023.mp4_83901-85651_Clear_18.mp4,Clear
+519,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.45m - 19.01.2023.mp4_32650-34400_Clear_9.mp4,Clear
+520,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.45m - 19.01.2023.mp4_44862-46612_Clear_12.mp4,Clear
+521,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.45m - 19.01.2023.mp4_49834-51584_Clear_13.mp4,Clear
+522,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.45m - 20.01.2023.mp4_3237-4987_Clear_3.mp4,Clear
+523,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Baloubelle - Abu Dhabi - 1.45m - 20.01.2023.mp4_14148-15898_Clear_6.mp4,Clear
+524,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 22.01.2023.mp4_22223-23973_Clear_7.mp4,Clear
+525,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 22.01.2023.mp4_33217-34967_Clear_10.mp4,Clear
+526,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 22.01.2023.mp4_47465-49215_Clear_12.mp4,Clear
+527,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 22.01.2023.mp4_51719-53469_Clear_14.mp4,Clear
+528,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 22.01.2023.mp4_65750-67500_Clear_17.mp4,Clear
+529,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.50m - 22.01.2023 Jumpoff.mp4_29680-31430_Clear_9.mp4,Clear
+530,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023.mp4_26694-28444_Clear_9.mp4,Clear
+531,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023.mp4_50101-51851_Clear_15.mp4,Clear
+532,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023.mp4_60961-62711_Clear_17.mp4,Clear
+533,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023.mp4_65666-67416_Clear_19.mp4,Clear
+534,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023.mp4_67151-68901_Clear_20.mp4,Clear
+535,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023 Jumpoff.mp4_2703-4453_Clear_3.mp4,Clear
+536,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023 Jumpoff.mp4_7925-9675_Clear_4.mp4,Clear
+537,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023 Jumpoff.mp4_13197-14947_Clear_5.mp4,Clear
+538,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023 Jumpoff.mp4_13214-14964_Clear_6.mp4,Clear
+539,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023 Jumpoff.mp4_19370-21120_Clear_7.mp4,Clear
+540,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.50m - 19.01.2023 Jumpoff.mp4_31882-33632_Clear_10.mp4,Clear
+541,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.60m - 22.01.2023 Round 2.mp4_30064-31814_Clear_7.mp4,Clear
+542,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.60m - 22.01.2023 Round 2.mp4_69887-71637_Clear_18.mp4,Clear
+543,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.60m - 22.01.2023 Round 1.mp4_20287-22037_Clear_6.mp4,Clear
+544,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.60m - 22.01.2023 Round 1 (1).mp4_28946-30696_Clear_7.mp4,Clear
+545,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Abu Dhabi - 1.60m - 22.01.2023 Round 1.mp4_28946-30696_Clear_7.mp4,Clear
+546,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.45m - 20.01.2023.mp4_1419-3169_Clear_3.mp4,Clear
+547,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.45m - 20.01.2023.mp4_35453-37203_Clear_9.mp4,Clear
+548,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.45m - 20.01.2023.mp4_39190-40940_Clear_10.mp4,Clear
+549,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - Abu Dhabi - 1.45m - 20.01.2023.mp4_64315-66065_Clear_16.mp4,Clear
+550,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_29233-30983_Clear_7.mp4,Clear
+551,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_92133-93883_Clear_14.mp4,Clear
+552,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_114300-116050_Clear_16.mp4,Clear
+553,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_136500-138250_Clear_19.mp4,Clear
+554,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_151033-152783_Clear_20.mp4,Clear
+555,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_174033-175783_Clear_23.mp4,Clear
+556,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_174100-175850_Clear_24.mp4,Clear
+557,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_190400-192150_Clear_26.mp4,Clear
+558,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.60m - 26.06.2022.mp4_190400-192150_Clear_27.mp4,Clear
+559,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.50m - 23.06.2022.mp4_4800-6550_Clear_3.mp4,Clear
+560,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.50m - 23.06.2022.mp4_12033-13783_Clear_4.mp4,Clear
+561,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.50m - 23.06.2022.mp4_26567-28317_Clear_8.mp4,Clear
+562,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.50m - 23.06.2022.mp4_36900-38650_Clear_11.mp4,Clear
+563,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.50m - 23.06.2022.mp4_42400-44150_Clear_12.mp4,Clear
+564,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.50m - 23.06.2022.mp4_55933-57683_Clear_17.mp4,Clear
+565,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Hickstead - 1.50m - 23.06.2022.mp4_60100-61850_Clear_18.mp4,Clear
+566,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 17.09.2022.mp4_27900-29650_Clear_8.mp4,Clear
+567,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 17.09.2022.mp4_63767-65517_Clear_16.mp4,Clear
+568,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 16.09.2022.mp4_27300-29050_Clear_9.mp4,Clear
+569,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 16.09.2022.mp4_44367-46117_Clear_13.mp4,Clear
+570,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 16.09.2022.mp4_45700-47450_Clear_14.mp4,Clear
+571,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 16.09.2022.mp4_51433-53183_Clear_16.mp4,Clear
+572,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 17.09.2022.mp4_71167-72917_Clear_20.mp4,Clear
+573,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 15.09.2022.mp4_26233-27983_Clear_9.mp4,Clear
+574,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 15.09.2022.mp4_38233-39983_Clear_13.mp4,Clear
+575,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 15.09.2022.mp4_54467-56217_Clear_15.mp4,Clear
+576,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 15.09.2022.mp4_61967-63717_Clear_18.mp4,Clear
+577,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 18.09.2022 Jumpoff.mp4_31867-33617_Clear_10.mp4,Clear
+578,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 18.09.2022.mp4_19067-20817_Clear_6.mp4,Clear
+579,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 16.09.2022.mp4_7067-8817_Clear_4.mp4,Clear
+580,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 16.09.2022.mp4_25933-27683_Clear_8.mp4,Clear
+581,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 16.09.2022.mp4_34367-36117_Clear_9.mp4,Clear
+582,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 16.09.2022.mp4_45767-47517_Clear_12.mp4,Clear
+583,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 16.09.2022.mp4_73133-74883_Clear_17.mp4,Clear
+584,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.40m - 15.09.2022.mp4_58733-60483_Clear_15.mp4,Clear
+585,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.55m - 18.09.2022.mp4_2067-3817_Clear_3.mp4,Clear
+586,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.55m - 18.09.2022.mp4_59800-61550_Clear_17.mp4,Clear
+587,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 16.09.2022 Jumpoff.mp4_2067-3817_Clear_3.mp4,Clear
+588,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 16.09.2022 Jumpoff.mp4_28900-30650_Clear_7.mp4,Clear
+589,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 16.09.2022.mp4_2100-3850_Clear_3.mp4,Clear
+590,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 16.09.2022.mp4_20000-21750_Clear_6.mp4,Clear
+591,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 16.09.2022.mp4_55433-57183_Clear_15.mp4,Clear
+592,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 16.09.2022.mp4_68367-70117_Clear_18.mp4,Clear
+593,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 24.09.2022.mp4_44833-46583_Clear_13.mp4,Clear
+594,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 24.09.2022.mp4_54667-56417_Clear_16.mp4,Clear
+595,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.60m - 25.09.2022.mp4_0-1750_Clear_1.mp4,Clear
+596,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.60m - 25.09.2022.mp4_41633-43383_Clear_12.mp4,Clear
+597,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.60m - 25.09.2022.mp4_39700-41450_Clear_11.mp4,Clear
+598,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.60m - 25.09.2022.mp4_48633-50383_Clear_13.mp4,Clear
+599,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.60m - 25.09.2022.mp4_67000-68750_Clear_17.mp4,Clear
+600,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.55m - 23.09.2022.mp4_34067-35817_Clear_10.mp4,Clear
+601,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.55m - 23.09.2022.mp4_35533-37283_Clear_11.mp4,Clear
+602,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.55m - 23.09.2022.mp4_52333-54083_Clear_15.mp4,Clear
+603,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.50m - 22.09.2022.mp4_28067-29817_Clear_9.mp4,Clear
+604,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.50m - 22.09.2022.mp4_43033-44783_Clear_13.mp4,Clear
+605,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.50m - 22.09.2022.mp4_57433-59183_Clear_16.mp4,Clear
+606,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.50m - 24.09.2022.mp4_71233-72983_Clear_17.mp4,Clear
+607,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 22.09.2022.mp4_11467-13217_Clear_4.mp4,Clear
+608,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 22.09.2022.mp4_34933-36683_Clear_9.mp4,Clear
+609,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 22.09.2022.mp4_65467-67217_Clear_14.mp4,Clear
+610,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.40m - 30.09.2022.mp4_12033-13783_Clear_4.mp4,Clear
+611,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.40m - 30.09.2022.mp4_16633-18383_Clear_5.mp4,Clear
+612,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 29.09.2022.mp4_22200-23950_Clear_6.mp4,Clear
+613,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 29.09.2022.mp4_27133-28883_Clear_9.mp4,Clear
+614,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 29.09.2022.mp4_40833-42583_Clear_11.mp4,Clear
+615,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 29.09.2022.mp4_50633-52383_Clear_13.mp4,Clear
+616,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Keysoe - 1.30m - 29.09.2022.mp4_51966-53716_Clear_14.mp4,Clear
+617,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Ommen - 1.45m - 08.07.2022.mp4_19667-21417_Clear_7.mp4,Clear
+618,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Ommen - 1.45m - 08.07.2022.mp4_19733-21483_Clear_8.mp4,Clear
+619,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Ommen - 1.45m - 08.07.2022.mp4_35000-36750_Clear_10.mp4,Clear
+620,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Ommen - 1.45m - 09.07.2022.mp4_24833-26583_Clear_9.mp4,Clear
+621,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Ommen - 1.45m - 09.07.2022.mp4_32567-34317_Clear_10.mp4,Clear
+622,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Ommen - 1.45m - 09.07.2022.mp4_70700-72450_Clear_17.mp4,Clear
+623,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.40m - 07.07.2022.mp4_34400-36150_Clear_9.mp4,Clear
+624,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.40m - 07.07.2022.mp4_77533-79283_Clear_18.mp4,Clear
+625,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.50m - 08.07.2022.mp4_1500-3250_Clear_3.mp4,Clear
+626,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.50m - 08.07.2022.mp4_17433-19183_Clear_6.mp4,Clear
+627,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.50m - 08.07.2022.mp4_47400-49150_Clear_13.mp4,Clear
+628,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.55m - 10.07.2022.mp4_25433-27183_Clear_7.mp4,Clear
+629,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.55m - 10.07.2022.mp4_64333-66083_Clear_18.mp4,Clear
+630,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.55m - 10.07.2022 Jumpoff.mp4_10533-12283_Clear_4.mp4,Clear
+631,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Ommen - 1.55m - 10.07.2022 Jumpoff.mp4_16100-17850_Clear_5.mp4,Clear
+632,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Ommen - 1.45m - 09.07.2022.mp4_33700-35450_Clear_11.mp4,Clear
+633,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.40m - 23.07.2022.mp4_17167-18917_Clear_5.mp4,Clear
+634,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.40m - 23.07.2022.mp4_62233-63983_Clear_17.mp4,Clear
+635,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 14.07.2022.mp4_15933-17683_Clear_6.mp4,Clear
+636,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 14.07.2022.mp4_22133-23883_Clear_7.mp4,Clear
+637,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 14.07.2022.mp4_33000-34750_Clear_9.mp4,Clear
+638,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 14.07.2022.mp4_53633-55383_Clear_13.mp4,Clear
+639,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 15.07.2022.mp4_8767-10517_Clear_4.mp4,Clear
+640,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 15.07.2022.mp4_13833-15583_Clear_5.mp4,Clear
+641,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 15.07.2022.mp4_17333-19083_Clear_7.mp4,Clear
+642,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 15.07.2022.mp4_28900-30650_Clear_10.mp4,Clear
+643,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 15.07.2022.mp4_41500-43250_Clear_12.mp4,Clear
+644,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 1.45m - 15.07.2022.mp4_59333-61083_Clear_17.mp4,Clear
+645,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.35m - 15.07.2022.mp4_1667-3417_Clear_3.mp4,Clear
+646,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.35m - 15.07.2022.mp4_17233-18983_Clear_5.mp4,Clear
+647,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.35m - 15.07.2022.mp4_37600-39350_Clear_10.mp4,Clear
+648,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.35m - 15.07.2022.mp4_59867-61617_Clear_15.mp4,Clear
+649,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.35m - 15.07.2022.mp4_83133-84883_Clear_19.mp4,Clear
+650,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022.mp4_3433-5183_Clear_3.mp4,Clear
+651,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022.mp4_10933-12683_Clear_4.mp4,Clear
+652,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022.mp4_25633-27383_Clear_7.mp4,Clear
+653,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022.mp4_25667-27417_Clear_8.mp4,Clear
+654,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022.mp4_34000-35750_Clear_11.mp4,Clear
+655,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022.mp4_42867-44617_Clear_12.mp4,Clear
+656,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022.mp4_47700-49450_Clear_15.mp4,Clear
+657,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022 Jumpoff.mp4_17067-18817_Clear_6.mp4,Clear
+658,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022 Jumpoff.mp4_25967-27717_Clear_7.mp4,Clear
+659,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022 Jumpoff.mp4_27833-29583_Clear_8.mp4,Clear
+660,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Zuidwolde - 1.40m - 23.07.2022 Jumpoff.mp4_34567-36317_Clear_10.mp4,Clear
+661,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 21.07.2022.mp4_13833-15583_Clear_6.mp4,Clear
+662,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Zuidwolde - 21.07.2022.mp4_65333-67083_Clear_16.mp4,Clear
+663,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 24.07.2022.mp4_28467-30217_Clear_10.mp4,Clear
+664,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 24.07.2022.mp4_64567-66317_Clear_18.mp4,Clear
+665,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 24.07.2022.mp4_68100-69850_Clear_19.mp4,Clear
+666,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 22.07.2022 Jumpoff.mp4_7333-9083_Clear_4.mp4,Clear
+667,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 22.07.2022 Jumpoff.mp4_15167-16917_Clear_5.mp4,Clear
+668,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 22.07.2022 Jumpoff.mp4_31467-33217_Clear_9.mp4,Clear
+669,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 22.07.2022.mp4_47133-48883_Clear_13.mp4,Clear
+670,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Zuidwolde - 22.07.2022.mp4_53900-55650_Clear_16.mp4,Clear
+671,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.30m - 08.09.2022.mp4_2533-4283_Clear_3.mp4,Clear
+672,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.30m - 08.09.2022.mp4_8133-9883_Clear_4.mp4,Clear
+673,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.30m - 08.09.2022.mp4_19500-21250_Clear_7.mp4,Clear
+674,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.30m - 08.09.2022.mp4_30900-32650_Clear_9.mp4,Clear
+675,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.30m - 08.09.2022.mp4_30933-32683_Clear_10.mp4,Clear
+676,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.30m - 08.09.2022.mp4_54867-56617_Clear_14.mp4,Clear
+677,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.30m - 08.09.2022.mp4_69767-71517_Clear_17.mp4,Clear
+678,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - St Tropez - 1.45m - 09.09.2022.mp4_74700-76450_Clear_19.mp4,Clear
+679,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.45m - 08.09.2022.mp4_14267-16017_Clear_5.mp4,Clear
+680,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.45m - 08.09.2022.mp4_33867-35617_Clear_9.mp4,Clear
+681,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.45m - 08.09.2022.mp4_40333-42083_Clear_11.mp4,Clear
+682,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.45m - 08.09.2022.mp4_60300-62050_Clear_16.mp4,Clear
+683,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.45m - 08.09.2022.mp4_60300-62050_Clear_17.mp4,Clear
+684,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.45m - 08.09.2022.mp4_67500-69250_Clear_20.mp4,Clear
+685,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 09.09.2022.mp4_3700-5450_Clear_3.mp4,Clear
+686,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 09.09.2022.mp4_24867-26617_Clear_8.mp4,Clear
+687,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 09.09.2022.mp4_26300-28050_Clear_9.mp4,Clear
+688,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 09.09.2022.mp4_40167-41917_Clear_12.mp4,Clear
+689,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 09.09.2022.mp4_57533-59283_Clear_16.mp4,Clear
+690,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.30m - 08.09.2022.mp4_9167-10917_Clear_5.mp4,Clear
+691,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.30m - 08.09.2022.mp4_20600-22350_Clear_7.mp4,Clear
+692,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.30m - 08.09.2022.mp4_32267-34017_Clear_10.mp4,Clear
+693,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.30m - 08.09.2022.mp4_70733-72483_Clear_16.mp4,Clear
+694,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.30m - 08.09.2022.mp4_70733-72483_Clear_17.mp4,Clear
+695,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.35m - 09.09.2022.mp4_16433-18183_Clear_5.mp4,Clear
+696,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.35m - 09.09.2022.mp4_27267-29017_Clear_8.mp4,Clear
+697,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.35m - 09.09.2022.mp4_44933-46683_Clear_11.mp4,Clear
+698,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.35m - 09.09.2022.mp4_38200-39950_Clear_10.mp4,Clear
+699,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.35m - 09.09.2022.mp4_51200-52950_Clear_14.mp4,Clear
+700,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 11.09.2022.mp4_27633-29383_Clear_8.mp4,Clear
+701,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 11.09.2022.mp4_41833-43583_Clear_10.mp4,Clear
+702,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Imperial Hbf - St Tropez - 1.45m - 11.09.2022.mp4_47467-49217_Clear_13.mp4,Clear
+703,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 08.09.2022.mp4_20833-22583_Clear_6.mp4,Clear
+704,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 08.09.2022.mp4_38133-39883_Clear_11.mp4,Clear
+705,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 08.09.2022.mp4_54933-56683_Clear_16.mp4,Clear
+706,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 10.09.2022.mp4_3267-5017_Clear_3.mp4,Clear
+707,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 10.09.2022.mp4_16033-17783_Clear_5.mp4,Clear
+708,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 10.09.2022.mp4_26967-28717_Clear_7.mp4,Clear
+709,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - St Tropez - 1.45m - 10.09.2022.mp4_53267-55017_Clear_15.mp4,Clear
+710,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.40m - 08.09.2022.mp4_3333-5083_Clear_3.mp4,Clear
+711,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.40m - 08.09.2022.mp4_9267-11017_Clear_5.mp4,Clear
+712,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.40m - 08.09.2022.mp4_16800-18550_Clear_6.mp4,Clear
+713,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.40m - 08.09.2022.mp4_27667-29417_Clear_8.mp4,Clear
+714,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.40m - 08.09.2022.mp4_40500-42250_Clear_11.mp4,Clear
+715,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.40m - 08.09.2022.mp4_64067-65817_Clear_16.mp4,Clear
+716,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.40m - 08.09.2022.mp4_68500-70250_Clear_18.mp4,Clear
+717,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 09.09.2022.mp4_30033-31783_Clear_8.mp4,Clear
+718,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 09.09.2022.mp4_37200-38950_Clear_11.mp4,Clear
+719,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 09.09.2022.mp4_57000-58750_Clear_16.mp4,Clear
+720,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - St Tropez - 1.45m - 10.09.2022.mp4_67733-69483_Clear_17.mp4,Clear
+721,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 11.09.2022.mp4_25367-27117_Clear_8.mp4,Clear
+722,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 11.09.2022.mp4_41600-43350_Clear_12.mp4,Clear
+723,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 11.09.2022.mp4_50500-52250_Clear_13.mp4,Clear
+724,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 11.09.2022.mp4_56467-58217_Clear_16.mp4,Clear
+725,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - St Tropez - 1.50m - 11.09.2022.mp4_66400-68150_Clear_18.mp4,Clear
+726,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.35m - August 11. 2022.mp4_25367-27117_Clear_7.mp4,Clear
+727,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.35m - August 11. 2022.mp4_34633-36383_Clear_8.mp4,Clear
+728,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.35m - August 11. 2022.mp4_36067-37817_Clear_9.mp4,Clear
+729,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.35m - August 11. 2022.mp4_58800-60550_Clear_12.mp4,Clear
+730,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.35m - August 11. 2022.mp4_62900-64650_Clear_14.mp4,Clear
+731,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.35m - August 11. 2022.mp4_64267-66017_Clear_15.mp4,Clear
+732,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Opglabbeek - 1.35m - August 13. 2022.mp4_28033-29783_Clear_7.mp4,Clear
+733,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Opglabbeek - 1.35m - August 13. 2022.mp4_49567-51317_Clear_10.mp4,Clear
+734,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Opglabbeek - 1.35m - August 13. 2022.mp4_79267-81017_Clear_15.mp4,Clear
+735,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.55m - August 14. 2022.mp4_8533-10283_Clear_3.mp4,Clear
+736,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.55m - August 14. 2022.mp4_48267-50017_Clear_11.mp4,Clear
+737,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.55m - August 14. 2022.mp4_69900-71650_Clear_16.mp4,Clear
+738,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.50m - August 13. 2022.mp4_16867-18617_Clear_4.mp4,Clear
+739,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Medoc de Toxandria - Opglabbeek - 1.50m - August 13. 2022.mp4_55100-56850_Clear_14.mp4,Clear
+740,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Opglabbeek - 1.45m - August 14. 2022.mp4_25300-27050_Clear_5.mp4,Clear
+741,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Sparks 55 - Opglabbeek - 1.45m - August 14. 2022.mp4_43867-45617_Clear_10.mp4,Clear
+742,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - August 14. 2022.mp4_52700-54450_Clear_12.mp4,Clear
+743,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - August 11. 2022.mp4_25200-26950_Clear_7.mp4,Clear
+744,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - August 11. 2022.mp4_29567-31317_Clear_8.mp4,Clear
+745,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.50m - August 12. 2022.mp4_10100-11850_Clear_3.mp4,Clear
+746,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.50m - August 12. 2022.mp4_34600-36350_Clear_10.mp4,Clear
+747,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.50m - August 12. 2022.mp4_44667-46417_Clear_11.mp4,Clear
+748,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.50m - August 12. 2022.mp4_52633-54383_Clear_13.mp4,Clear
+749,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - August 11. 2022.mp4_24567-26317_Clear_5.mp4,Clear
+750,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - August 11. 2022.mp4_24633-26383_Clear_6.mp4,Clear
+751,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.45m - 16.04.2022.mp4_38967-40717_Clear_10.mp4,Clear
+752,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.45m - 16.04.2022.mp4_53933-55683_Clear_13.mp4,Clear
+753,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 15.04.2022.mp4_0-1750_Clear_2.mp4,Clear
+754,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 15.04.2022.mp4_8067-9817_Clear_4.mp4,Clear
+755,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 15.04.2022.mp4_37867-39617_Clear_10.mp4,Clear
+756,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 15.04.2022.mp4_49433-51183_Clear_12.mp4,Clear
+757,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 14.04.2022.mp4_21800-23550_Clear_8.mp4,Clear
+758,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 14.04.2022.mp4_38967-40717_Clear_11.mp4,Clear
+759,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 14.04.2022.mp4_63167-64917_Clear_16.mp4,Clear
+760,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - 16.04.2022.mp4_23600-25350_Clear_6.mp4,Clear
+761,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - 16.04.2022.mp4_41033-42783_Clear_11.mp4,Clear
+762,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.40m - 15.04.2022.mp4_22000-23750_Clear_6.mp4,Clear
+763,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.40m - 15.04.2022.mp4_25533-27283_Clear_8.mp4,Clear
+764,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.40m - 15.04.2022.mp4_38200-39950_Clear_10.mp4,Clear
+765,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.40m - 15.04.2022.mp4_50867-52617_Clear_13.mp4,Clear
+766,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 16.04.2022.mp4_0-1750_Clear_2.mp4,Clear
+767,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 16.04.2022.mp4_41500-43250_Clear_12.mp4,Clear
+768,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 16.04.2022.mp4_69100-70850_Clear_17.mp4,Clear
+769,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 15.04.2022 Jumpoff.mp4_8067-9817_Clear_4.mp4,Clear
+770,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 15.04.2022 Jumpoff.mp4_14533-16283_Clear_5.mp4,Clear
+771,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 15.04.2022 Jumpoff.mp4_20000-21750_Clear_7.mp4,Clear
+772,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 15.04.2022 Jumpoff.mp4_21367-23117_Clear_8.mp4,Clear
+773,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 15.04.2022.mp4_17233-18983_Clear_5.mp4,Clear
+774,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 15.04.2022.mp4_21200-22950_Clear_7.mp4,Clear
+775,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - 21.04.2022.mp4_15233-16983_Clear_6.mp4,Clear
+776,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - 21.04.2022.mp4_69967-71717_Clear_17.mp4,Clear
+777,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.40m - 21.04.2022.mp4_31567-33317_Clear_10.mp4,Clear
+778,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.40m - 21.04.2022.mp4_37633-39383_Clear_12.mp4,Clear
+779,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.40m - 21.04.2022.mp4_49667-51417_Clear_14.mp4,Clear
+780,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - 22.04.2022.mp4_7233-8983_Clear_4.mp4,Clear
+781,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - 22.04.2022.mp4_20333-22083_Clear_8.mp4,Clear
+782,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - 22.04.2022.mp4_53733-55483_Clear_14.mp4,Clear
+783,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.45m - 22.04.2022.mp4_57733-59483_Clear_15.mp4,Clear
+784,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 21.04.2022.mp4_10267-12017_Clear_4.mp4,Clear
+785,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 21.04.2022.mp4_19933-21683_Clear_6.mp4,Clear
+786,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 21.04.2022.mp4_33967-35717_Clear_10.mp4,Clear
+787,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 21.04.2022.mp4_47867-49617_Clear_13.mp4,Clear
+788,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022.mp4_2267-4017_Clear_3.mp4,Clear
+789,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022.mp4_12600-14350_Clear_5.mp4,Clear
+790,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022.mp4_21033-22783_Clear_6.mp4,Clear
+791,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022.mp4_40300-42050_Clear_12.mp4,Clear
+792,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022.mp4_44500-46250_Clear_13.mp4,Clear
+793,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022.mp4_61767-63517_Clear_16.mp4,Clear
+794,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022.mp4_61767-63517_Clear_17.mp4,Clear
+795,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen VH Veldhof - Opglabbeek - 1.45m - 23.04.2022 Jumpoff.mp4_14767-16517_Clear_6.mp4,Clear
+796,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - 23.04.2022.mp4_3000-4750_Clear_3.mp4,Clear
+797,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - 23.04.2022.mp4_25100-26850_Clear_8.mp4,Clear
+798,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - 23.04.2022.mp4_64333-66083_Clear_19.mp4,Clear
+799,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - 23.04.2022 Jumpoff.mp4_21500-23250_Clear_7.mp4,Clear
+800,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Opglabbeek - 1.35m - 23.04.2022 Jumpoff.mp4_33200-34950_Clear_10.mp4,Clear
+801,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Lanaken - 1.35m - 03.04.2022.mp4_27767-29517_Clear_8.mp4,Clear
+802,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Lanaken - 1.30m - 02.04.2022.mp4_12567-14317_Clear_4.mp4,Clear
+803,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Lanaken - 1.30m - 02.04.2022.mp4_17400-19150_Clear_5.mp4,Clear
+804,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Lanaken - 1.30m - 02.04.2022.mp4_40833-42583_Clear_10.mp4,Clear
+805,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Lanaken - 1.30m - 02.04.2022.mp4_32200-33950_Clear_9.mp4,Clear
+806,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z  - Lanaken - 1.30m - 02.04.2022.mp4_67567-69317_Clear_17.mp4,Clear
+807,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck  - Lanaken - 1.40m - 01.04.2022.mp4_22267-24017_Clear_8.mp4,Clear
+808,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck  - Lanaken - 1.40m - 01.04.2022.mp4_23667-25417_Clear_9.mp4,Clear
+809,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck  - Lanaken - 1.40m - 01.04.2022.mp4_33900-35650_Clear_12.mp4,Clear
+810,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck  - Lanaken - 1.40m - 01.04.2022.mp4_44167-45917_Clear_15.mp4,Clear
+811,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck  - Lanaken - 1.40m - 01.04.2022.mp4_50167-51917_Clear_17.mp4,Clear
+812,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V  - Lanaken - 1.35m - 03.04.2022.mp4_45333-47083_Clear_13.mp4,Clear
+813,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V  - Lanaken - 1.35m - 01.04.2022.mp4_23933-25683_Clear_7.mp4,Clear
+814,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V  - Lanaken - 1.35m - 01.04.2022.mp4_42733-44483_Clear_11.mp4,Clear
+815,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Hucalinde D.V  - Lanaken - 1.35m - 01.04.2022.mp4_59967-61717_Clear_16.mp4,Clear
+816,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.45m - 03.04.2022.mp4_7600-9350_Clear_4.mp4,Clear
+817,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.45m - 03.04.2022.mp4_21600-23350_Clear_6.mp4,Clear
+818,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.45m - 03.04.2022.mp4_41567-43317_Clear_12.mp4,Clear
+819,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.45m - 03.04.2022.mp4_55133-56883_Clear_15.mp4,Clear
+820,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.45m - 03.04.2022.mp4_56567-58317_Clear_16.mp4,Clear
+821,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.40m - 02.04.2022.mp4_29967-31717_Clear_9.mp4,Clear
+822,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.40m - 02.04.2022.mp4_38167-39917_Clear_10.mp4,Clear
+823,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.40m - 02.04.2022.mp4_47000-48750_Clear_12.mp4,Clear
+824,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.40m - 02.04.2022.mp4_54100-55850_Clear_14.mp4,Clear
+825,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen Vh Veldhof  - Lanaken - 1.35m - 01.04.2022.mp4_15867-17617_Clear_6.mp4,Clear
+826,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda  - Lanaken - 1.45m - 01.04.2022.mp4_1933-3683_Clear_3.mp4,Clear
+827,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda  - Lanaken - 1.45m - 01.04.2022.mp4_83600-85350_Clear_17.mp4,Clear
+828,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda  - Lanaken - 1.40m - 03.04.2022.mp4_33233-34983_Clear_9.mp4,Clear
+829,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda  - Lanaken - 1.40m - 03.04.2022.mp4_42800-44550_Clear_12.mp4,Clear
+830,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda  - Lanaken - 1.40m - 03.04.2022.mp4_63033-64783_Clear_16.mp4,Clear
+831,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda  - Lanaken - 1.35m - 02.04.2022.mp4_38267-40017_Clear_12.mp4,Clear
+832,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda  - Lanaken - 1.35m - 02.04.2022.mp4_49667-51417_Clear_15.mp4,Clear
+833,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 06.05.2022.mp4_4800-6550_Clear_3.mp4,Clear
+834,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Opglabbeek - 1.40m - 06.05.2022.mp4_29300-31050_Clear_8.mp4,Clear
+835,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Commissaire S - Opglabbeek - 1.50m - 06.05.2022.mp4_17567-19317_Clear_5.mp4,Clear
+836,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.40m - 06.05.2022.mp4_38800-40550_Clear_11.mp4,Clear
+837,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.40m - 06.05.2022.mp4_57200-58950_Clear_16.mp4,Clear
+838,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 05.05.2022.mp4_40667-42417_Clear_10.mp4,Clear
+839,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Opglabbeek - 1.45m - 05.05.2022.mp4_73400-75150_Clear_18.mp4,Clear
+840,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Lanaken - 1.40m - 08.04.2022.mp4_15533-17283_Clear_5.mp4,Clear
+841,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Lanaken - 1.40m - 08.04.2022.mp4_40400-42150_Clear_11.mp4,Clear
+842,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Lanaken - 1.40m - 09.04.2022.mp4_30700-32450_Clear_8.mp4,Clear
+843,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Belinda - Lanaken - 1.40m - 09.04.2022.mp4_40633-42383_Clear_10.mp4,Clear
+844,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.45m - 10.04.2022.mp4_8800-10550_Clear_4.mp4,Clear
+845,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.45m - 10.04.2022.mp4_25000-26750_Clear_7.mp4,Clear
+846,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.50m - 08.04.2022.mp4_3467-5217_Clear_3.mp4,Clear
+847,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.50m - 08.04.2022.mp4_8033-9783_Clear_4.mp4,Clear
+848,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.50m - 08.04.2022.mp4_13933-15683_Clear_5.mp4,Clear
+849,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.50m - 08.04.2022.mp4_39600-41350_Clear_11.mp4,Clear
+850,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.50m - 08.04.2022.mp4_47633-49383_Clear_15.mp4,Clear
+851,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Gentlemen vh Veldhof - Lanaken - 1.50m - 08.04.2022.mp4_58833-60583_Clear_20.mp4,Clear
+852,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.35m - 10.04.2022.mp4_56333-58083_Clear_10.mp4,Clear
+853,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.45m - 08.04.2022.mp4_23000-24750_Clear_7.mp4,Clear
+854,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.45m - 08.04.2022.mp4_39800-41550_Clear_11.mp4,Clear
+855,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.45m - 08.04.2022.mp4_66433-68183_Clear_18.mp4,Clear
+856,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.50m - 09.04.2022.mp4_7667-9417_Clear_4.mp4,Clear
+857,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Jimmy Mack Van Berkenbroeck - Lanaken - 1.50m - 09.04.2022.mp4_22067-23817_Clear_7.mp4,Clear
+858,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 08.04.2022.mp4_14300-16050_Clear_6.mp4,Clear
+859,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 08.04.2022.mp4_29733-31483_Clear_9.mp4,Clear
+860,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 08.04.2022.mp4_53100-54850_Clear_15.mp4,Clear
+861,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 08.04.2022.mp4_59467-61217_Clear_16.mp4,Clear
+862,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 10.04.2022.mp4_3467-5217_Clear_3.mp4,Clear
+863,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 10.04.2022.mp4_45233-46983_Clear_12.mp4,Clear
+864,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 10.04.2022.mp4_50267-52017_Clear_14.mp4,Clear
+865,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 09.04.2022.mp4_52267-54017_Clear_13.mp4,Clear
+866,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Tim Gredley - Tres Bien Z - Lanaken - 1.35m - 09.04.2022.mp4_58267-60017_Clear_17.mp4,Clear
+867,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Faltic HB - Aachen - 1.50m - 30.06.2022 Round 1.mp4_35467-37217_Clear_6.mp4,Clear
+868,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Faltic HB - Aachen - 1.50m - 30.06.2022 Round 1.mp4_67500-69250_Clear_11.mp4,Clear
+869,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Faltic HB - Aachen - 1.50m - 30.06.2022 Round 1.mp4_76333-78083_Clear_14.mp4,Clear
+870,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Explosion W - Aachen - 1.60m - 03.07.2022 Round 2.mp4_24959-26709_Clear_4.mp4,Clear
+871,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Explosion W - Aachen - 1.60m - 03.07.2022 Round 2.mp4_26794-28544_Clear_5.mp4,Clear
+872,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Explosion W - Aachen - 1.60m - 03.07.2022 Round 2.mp4_42426-44176_Clear_7.mp4,Clear
+873,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Explosion W - Aachen - 1.60m - 03.07.2022 Round 2.mp4_46514-48264_Clear_8.mp4,Clear
+874,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 1.mp4_44567-46317_Clear_7.mp4,Clear
+875,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 1.mp4_53467-55217_Clear_9.mp4,Clear
+876,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 1.mp4_67000-68750_Clear_11.mp4,Clear
+877,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 1.mp4_72333-74083_Clear_12.mp4,Clear
+878,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 1.mp4_75700-77450_Clear_15.mp4,Clear
+879,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Faltic HB - Aachen - 1.50m - 30.06.2022 Round 2.mp4_19467-21217_Clear_3.mp4,Clear
+880,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Faltic HB - Aachen - 1.50m - 30.06.2022 Round 2.mp4_30633-32383_Clear_5.mp4,Clear
+881,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 2.mp4_12100-13850_Clear_2.mp4,Clear
+882,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 2.mp4_18533-20283_Clear_3.mp4,Clear
+883,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 2.mp4_45133-46883_Clear_8.mp4,Clear
+884,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.50m - 30.06.2022 Round 2.mp4_76500-78250_Clear_15.mp4,Clear
+885,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Ben Maher - Explosion W - Aachen - 1.60m - 03.07.2022 Round 1.mp4_8409-10159_Clear_2.mp4,Clear
+886,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Harry Charles - Romeo 88 - Aachen - 1.60m - 03.07.2022 Round 1.mp4_28496-30246_Clear_5.mp4,Clear
+887,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/John Whitaker - Equine America Unick du Francport - Aachen - 1.50m - 30.06.2022 Round 1.mp4_3500-5250_Clear_1.mp4,Clear
+888,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/John Whitaker - Equine America Unick du Francport - Aachen - 1.50m - 30.06.2022 Round 1.mp4_19133-20883_Clear_3.mp4,Clear
+889,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/John Whitaker - Equine America Unick du Francport - Aachen - 1.50m - 30.06.2022 Round 1.mp4_60267-62017_Clear_10.mp4,Clear
+890,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/John Whitaker - Equine America Unick du Francport - Aachen - 1.50m - 30.06.2022 Round 1.mp4_75133-76883_Clear_13.mp4,Clear
+891,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/John Whitaker - Equine America Unick du Francport - Aachen - 1.50m - 30.06.2022 Round 2.mp4_36167-37917_Clear_6.mp4,Clear
+892,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/John Whitaker - Equine America Unick du Francport - Aachen - 1.50m - 30.06.2022 Round 2.mp4_77967-79717_Clear_14.mp4,Clear
+893,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.50m - 30.06.2022 Round 1.mp4_29700-31450_Clear_5.mp4,Clear
+894,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.50m - 30.06.2022 Round 2.mp4_45367-47117_Clear_8.mp4,Clear
+895,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.50m - 30.06.2022 Round 2.mp4_73933-75683_Clear_14.mp4,Clear
+896,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Jumpoff.mp4_2119-3869_Clear_1.mp4,Clear
+897,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Round 2.mp4_8025-9775_Clear_2.mp4,Clear
+898,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Round 2.mp4_49150-50900_Clear_9.mp4,Clear
+899,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Round 1.mp4_9960-11710_Clear_2.mp4,Clear
+900,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Round 1.mp4_36587-38337_Clear_8.mp4,Clear
+901,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Round 1.mp4_47481-49231_Clear_10.mp4,Clear
+902,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Round 1.mp4_54672-56422_Clear_11.mp4,Clear
+903,/content/drive/MyDrive/AI R&D Project/Equestrian/dataset_temp3/test/Clear/Scott Brash - Hello Jefferson - Aachen - 1.60m - 03.07.2022 Round 1.mp4_77678-79428_Clear_15.mp4,Clear
